@@ -1,0 +1,42 @@
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	background-color: #333;
+	color: white;
+	padding: 20px;
+	text-align: center;
+}
+
+main {
+	padding: 20px;
+}
+
+h1, h2 {
+	margin-top: 40px;
+}
+
+ul {
+	list-style-type: disc;
+	margin-left: 20px;
+}
+
+.team-member {
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 20px;
+}
+
+.team-member img {
+	display: block;
+	margin-bottom: 10px;
+}
+
+footer {
+	background-color: #eee;
+	padding: 10px;
+	text-align: center;
+}
